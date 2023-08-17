@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Matt Leinart ranks his top five college football teams of all time",
+            "description": "The 2019 LSU Tigers headline Matt Leinart's top college football teams of all time. Check out which other teams made the cut!",
+            "url": "http://www.foxsports.com/stories/college-football/matt-leinart-ranks-his-top-five-college-football-teams-of-all-time",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.11.23_Matt-Leinart-Top-5_16x9-1.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-11T23:17:38Z",
+            "content": "If you were to compile a list of the top five college football teams of all time, chances are it would be different from someone else's in more ways that one. With so many great teams to choose from … [+3129 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "Sam Bankman-Fried sent to jail as judge revokes bail over witness tampering, VPN use",
+            "description": "FTX co-founder Sam Bankman-Fried’s $250 million bail was revoked, putting him in jail awaiting trial on charges of fraud. Violations included using a VPN to watch a football game and contacting a witness via Signal.",
+            "url": "http://www.theverge.com/2023/8/11/23829004/ftx-sam-bankman-fried-bail-revoked-vpn-signal",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NumFpln8HTXdEYhD1dG01pf2xkQ=/0x0:4727x3152/1200x628/filters:focal(2364x1576:2365x1577)/cdn.vox-cdn.com/uploads/chorus_asset/file/24845379/1607951345.jpg",
+            "publishedAt": "2023-08-11T20:11:21Z",
+            "content": "Sam Bankman-Fried sent to jail as judge revokes bail over witness tampering, VPN use\r\nSam Bankman-Fried sent to jail as judge revokes bail over witness tampering, VPN use\r\n / SBF was free on $250 mil… [+1871 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Austen Goslin",
+            "title": "Wrexham season 2 is make or break for Ryan Reynolds’ football club",
+            "description": "Welcome to Wrexham’s season 2 trailer lets Ryan Reynolds and Rob McElhenney set up the stakes for the show’s return on Sept. 12.",
+            "url": "https://www.polygon.com/23828686/wrexham-season-2-trailer-release-date-ryan-reynolds",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/dFQi4vXJ4MX7GUcRGCjwUHjBn_Y=/237x0:2296x1078/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24844801/wrexham.png",
+            "publishedAt": "2023-08-11T17:10:00Z",
+            "content": "Ryan Reynolds and Rob McElhenney set up the stakes for a new season"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Martin Rogers",
+            "title": "Bryce Young isn't a sure thing, because no QB is. But the hype around him is building",
+            "description": "From Frank Reich to Aaron Rodgers to new teammates, the football world is raving about Panthers rookie QB Bryce Young. Expectations for the No. 1 overall pick are high.",
+            "url": "http://www.foxsports.com/stories/nfl/bryce-young-isnt-a-sure-thing-because-no-qb-is-but-the-hype-around-him-is-building",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.11.23_Insider-Newsletter_Bryce-Young_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-08-11T15:31:37Z",
+            "content": "If football is wrong about Bryce Young yes, football, it's that unanimous then there's egg on everyone's face. Maybe the game has gotten too technical and therefore too unpredictable. Maybe it's just… [+5155 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Gary Davenport",
+            "title": "Fantasy Football 2023 Big Board: Top 100 Players and Position-by-Position Rankings",
+            "description": "There is no better time of year in fantasy football than\ndraft season. This is the time when hope springs eternal. It doesn't matter what happened in 2022.…",
+            "url": "https://bleacherreport.com/articles/10085643-fantasy-football-2023-big-board-top-100-players-and-position-by-position-rankings",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1691636220/ebdcestaryazildtfitr.jpg",
+            "publishedAt": "2023-08-11T11:00:00Z",
+            "content": "Justin JeffersonMichael Reaves/Getty Images\r\nBefore we get to the top 100 players in PPR leagues for 2023, a few quick notes about this list and the big board as a whole.\r\nFirst, the top 100 is not a… [+4049 chars]"
+        },
+        {
+            "source": {
+                "id": "der-tagesspiegel",
+                "name": "Der Tagesspiegel"
+            },
+            "author": "Charlotte Bruch, Jörg Leopold",
+            "title": "Berlin Rebels in der German Football League: „Die Play-offs sind das Minimum“",
+            "description": "Das Team von Sportdirektor Dogan Özdincer hat in dieser GFL-Saison noch viel vor, wenn da nur nicht die Sorge um das liebe Geld wäre.",
+            "url": "https://www.tagesspiegel.de/sport/berlin-rebels-in-der-german-football-league-die-play-offs-sind-das-minimum-10290541.html",
+            "urlToImage": "https://www.tagesspiegel.de/sport/images/202306043855r7jpg/alternates/BASE_16_9_W1400/202306043855r7jpg.jpeg",
+            "publishedAt": "2023-08-10T11:07:45+00:00",
+            "content": "Dogan Özdincer eine Institution im deutschen und speziell im Berliner Football zu nennen, ist keine Untertreibung. Der Spandauer war lange als Coach bei den Adlern, anfangs für die Linebacker, später… [+64 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
